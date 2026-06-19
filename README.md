@@ -39,7 +39,7 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 | [ui-styling](https://github.com/anthropics/skills) | Build beautiful, accessible UIs with shadcn/ui + Radix + Tailwind. Themes, dark mode, responsive layouts, consistent styling patterns. | Official | — |
 | [web-design-guidelines](https://github.com/anthropics/skills) | Review UI code against web interface guidelines — accessibility, UX, site best practices. Use to audit/polish existing UI. | Official | — |
 | [impeccable](https://github.com/anthropics/skills) | Design, redesign, shape, critique, audit, polish, clarify a UI until it's intentional and refined. End-to-end UI craft. | Official | — |
-| [web-design](https://github.com/KAOPU-XiaoPu/web-design) | Design beautiful, consistent web pages. A SKILL for cohesive web page design with opinionated aesthetics. | Community | ⭐452 |
+| [web-design](https://github.com/KAOPU-XiaoPu/web-design) | Design beautiful, consistent web pages. A SKILL for cohesive web page design with opinionated aesthetics. | Community | ⭐457 |
 | [ai-friendly-web-design-skill](https://github.com/ianho7/ai-friendly-web-design-skill) | Build web interfaces friendly to AI assistants and users alike — structure, semantics, accessibility tuned for AI consumption. | Community | ⭐60 |
 | [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) | 48 award-winning web design patterns as a plugin. Drop-in patterns for hero, nav, cards, forms, etc. | Community | ⭐59 |
 | [tasteful-ui-skill](https://github.com/DonkeyKing01/tasteful-ui-skill) | Taste-first UI design for coding agents — explore visual directions before committing, avoid generic output. | Community | ⭐4 |
@@ -53,7 +53,7 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 |---|---|---|---|
 | [design-system](https://github.com/anthropics/skills) | Token architecture with three layers (primitive→semantic→component), component specs, CSS variables, spacing/typography scales, Tailwind integration. | Official | — |
 | [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | Apply preset themes (10 built-in, e.g. arctic-frost, midnight-galaxy) or generate custom ones — colors + fonts — to slides/docs/landing pages. | Official | — |
-| [material-3-skill](https://github.com/hamen/material-3-skill) | Implement Google Material Design 3 (Material You). Primary Jetpack Compose + Flutter; web limited. 30+ components, theming, dynamic color. | Community | ⭐1008 |
+| [material-3-skill](https://github.com/hamen/material-3-skill) | Implement Google Material Design 3 (Material You). Primary Jetpack Compose + Flutter; web limited. 30+ components, theming, dynamic color. | Community | ⭐1011 |
 | [design-systems-index](https://github.com/Ezra-Y/design-systems-index) | Index of major companies' design systems (Material/Fluent/Carbon/Polaris/Atlassian) + tokens + pattern libraries + React/RN DS libs. | Mine | — |
 | [design-system-stack](https://github.com/pato-gonzalez/design-system-stack) | 4-skill bundle: extract, build, maintain, document design systems end-to-end for AI agents. | Community | ⭐4 |
 | [getdesign](https://github.com/MohtashamMurshid/getdesign) | On-demand design systems extracted from any URL. Five surfaces, one agent — turn a live site into a reusable DS. | Community | ⭐34 |
@@ -65,7 +65,7 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | Create beautiful visual art in .png and .pdf using a design philosophy. Bundles 30+ fonts. For posters, art, static pieces. | Official | — |
 | [banner-design](https://github.com/anthropics/skills) | Banners for social, ads, website heroes, print. Multiple art-direction options with AI-generated visuals; platform-specific sizes. | Official | — |
 | [slides](https://github.com/anthropics/skills) | Strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, slide strategies. | Official | — |
-| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create animation-rich HTML presentations from scratch or by converting PowerPoint. Bold template packs included. | Community | ⭐22099 |
+| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create animation-rich HTML presentations from scratch or by converting PowerPoint. Bold template packs included. | Community | ⭐22224 |
 | [design](https://github.com/anthropics/skills) | Built-in design production: logo (55 styles), CIP mockups, SVG icons (15 styles), social photos. Multi-platform output. | Official | — |
 | [design-assets-index](https://github.com/Ezra-Y/design-assets-index) | Index of ready-made design assets — stock photos, icons, fonts, color palettes, mockups, UI kits, templates. Where to find assets. | Mine | — |
 | [design-tools-index](https://github.com/Ezra-Y/design-tools-index) | Categorized index of design tools by purpose (animation/color/prototyping/handoff/design-to-code...) — 30+ categories. | Mine | — |
@@ -85,19 +85,19 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 
 | Skill | What it does | Source | Stars |
 |---|---|---|---|
-| [taste-skill](https://github.com/senlindesign/taste-skill) | Reverse-engineer any website's design taste from a URL. Captures DOM + screenshot, outputs tokens AND taste DNA (the why behind decisions). | Community | ⭐123 |
-| [claude2figma](https://github.com/senlindesign/claude2figma) | Claude + Figma enforcement layer — component rules, preflight, style binding, reference interpreter. Keeps Figma output consistent. | Community | ⭐170 |
+| [taste-skill](https://github.com/senlindesign/taste-skill) | Reverse-engineer any website's design taste from a URL. Captures DOM + screenshot, outputs tokens AND taste DNA (the why behind decisions). | Community | ⭐141 |
+| [claude2figma](https://github.com/senlindesign/claude2figma) | Claude + Figma enforcement layer — component rules, preflight, style binding, reference interpreter. Keeps Figma output consistent. | Community | ⭐169 |
 | [brand](https://github.com/anthropics/skills) | Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Build/maintain a brand system. | Official | — |
-| [webdesign-agency-skills](https://github.com/peterhadorn/webdesign-agency-skills) | Audit any website for a client-ready sales brief, or run targeted design reviews. Agency-grade workflows. | Community | ⭐18 |
+| [webdesign-agency-skills](https://github.com/peterhadorn/webdesign-agency-skills) | Audit any website for a client-ready sales brief, or run targeted design reviews. Agency-grade workflows. | Community | ⭐19 |
 
 ### 6. Mobile UI (iOS / SwiftUI)
 
 | Skill | What it does | Source | Stars |
 |---|---|---|---|
-| [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | SwiftUI frontend visual design — 6 anti-AI-slop rules, Apple-native typography, 5-dimension design review. Distinctive iOS/macOS UI. | Community | ⭐141 |
-| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | SwiftUI agent skill by Paul Hudson. Helps AI write smarter modern SwiftUI — API, design, performance, accessibility, navigation. | Community | ⭐4123 |
-| [apple-skills](https://github.com/vabole/apple-skills) | Apple development skills collection — HIG, ios-design-consultant, ui-craft, swiftui/animations, plus frameworks (StoreKit/HealthKit/etc.). | Community | ⭐264 |
-| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS simulator automation — build/test scripts, accessibility navigation, screen mapping, gestures, visual diff, app lifecycle. | Community | ⭐1089 |
+| [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | SwiftUI frontend visual design — 6 anti-AI-slop rules, Apple-native typography, 5-dimension design review. Distinctive iOS/macOS UI. | Community | ⭐139 |
+| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | SwiftUI agent skill by Paul Hudson. Helps AI write smarter modern SwiftUI — API, design, performance, accessibility, navigation. | Community | ⭐4135 |
+| [apple-skills](https://github.com/vabole/apple-skills) | Apple development skills collection — HIG, ios-design-consultant, ui-craft, swiftui/animations, plus frameworks (StoreKit/HealthKit/etc.). | Community | ⭐265 |
+| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS simulator automation — build/test scripts, accessibility navigation, screen mapping, gestures, visual diff, app lifecycle. | Community | ⭐1090 |
 | [ios-motion-patterns-index](https://github.com/Ezra-Y/ios-motion-patterns-index) | Index of runnable Swift animation code by category (Menu/Transition/Indicator/Alert/Animation/UI) from MotionBook. | Mine | — |
 
 ---
