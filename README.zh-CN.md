@@ -39,11 +39,11 @@
 | [ui-styling](https://github.com/anthropics/skills) | 用 shadcn/ui + Radix + Tailwind 做漂亮可访问的界面。主题、暗色模式、响应式布局、一致性样式模式。 | Official | — |
 | [web-design-guidelines](https://github.com/anthropics/skills) | 按 Web 界面规范审查 UI 代码——可访问性、UX、站点最佳实践。用于审计/打磨已有界面。 | Official | — |
 | [impeccable](https://github.com/anthropics/skills) | 设计、重设计、塑形、评审、审计、打磨界面，直到它有意图且精致。端到端的 UI 工艺。 | Official | — |
-| [web-design](https://github.com/KAOPU-XiaoPu/web-design) | 设计美观、一致的网页。专注页面整体设计、有主见的美学。 | Community | ⭐572 |
+| [web-design](https://github.com/KAOPU-XiaoPu/web-design) | 设计美观、一致的网页。专注页面整体设计、有主见的美学。 | Community | ⭐573 |
 | [ai-friendly-web-design-skill](https://github.com/ianho7/ai-friendly-web-design-skill) | 构建对 AI 助手和用户都友好的 web 界面——结构、语义、可访问性为 AI 消费调优。 | Community | ⭐69 |
 | [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) | 48 个获奖的 web 设计模式（plugin）。开箱即用的 hero/导航/卡片/表单等模式。 | Community | ⭐64 |
 | [tasteful-ui-skill](https://github.com/DonkeyKing01/tasteful-ui-skill) | 品味优先的 UI 设计 skill——先探索视觉方向再下手，避免套路化产出。 | Community | ⭐5 |
-| [UIUX-high-taste-skill](https://github.com/Payoss/UIUX-high-taste-skill) | 精选的高品质 UI/UX 设计 skill 合集。高品味、精致产出，适合高标准项目。 | Community | ⭐8 |
+| [UIUX-high-taste-skill](https://github.com/Payoss/UIUX-high-taste-skill) | 精选的高品质 UI/UX 设计 skill 合集。高品味、精致产出，适合高标准项目。 | Community | ⭐10 |
 | [elite-web-design](https://github.com/RSHVR/elite-web-design) | 高端前端设计 skill 合集——大胆、有辨识度的 web 美学，面向生产应用。 | Community | ⭐1 |
 | [frontend-design-engineer-skill](https://github.com/angelapaia/frontend-design-engineer-skill) | 一个 skill 集成艺术总监 + 高级前端工程师。衔接设计愿景与前端实现。 | Community | ⭐4 |
 
@@ -53,7 +53,7 @@
 |---|---|---|---|
 | [design-system](https://github.com/anthropics/skills) | 三层 token 架构（原始→语义→组件）、组件规范、CSS 变量、间距/字体尺度、Tailwind 集成。 | Official | — |
 | [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | 套用预设主题（10 个内置，如 arctic-frost、midnight-galaxy）或即时生成自定义主题——配色+字体——给 slides/docs/landing page。 | Official | — |
-| [material-3-skill](https://github.com/hamen/material-3-skill) | 实现 Google Material Design 3（Material You）。主攻 Jetpack Compose + Flutter，web 有限。30+ 组件、主题、动态配色。 | Community | ⭐1103 |
+| [material-3-skill](https://github.com/hamen/material-3-skill) | 实现 Google Material Design 3（Material You）。主攻 Jetpack Compose + Flutter，web 有限。30+ 组件、主题、动态配色。 | Community | ⭐1105 |
 | [design-systems-index](https://github.com/Ezra-Y/design-systems-index) | 各公司设计系统索引（Material/Fluent/Carbon/Polaris/Atlassian）+ tokens + pattern library + React/RN DS 库。 | Mine | — |
 | [design-system-stack](https://github.com/pato-gonzalez/design-system-stack) | 4-skill 包：为 AI agent 端到端提取、构建、维护、文档化设计系统。 | Community | ⭐4 |
 | [getdesign](https://github.com/MohtashamMurshid/getdesign) | 从任意 URL 即时提取设计系统。五个面、一个 agent——把线上站点变可复用 DS。 | Community | ⭐38 |
@@ -65,7 +65,7 @@
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | 用设计哲学生成 .png/.pdf 视觉艺术，内置 30+ 字体。用于海报、艺术、静态作品。 | Official | — |
 | [banner-design](https://github.com/anthropics/skills) | 社媒/广告/网站 hero/印刷 banner。多种艺术方向 + AI 生成视觉；按平台尺寸。 | Official | — |
 | [slides](https://github.com/anthropics/skills) | 策略型 HTML 演示文稿，含 Chart.js、设计 token、响应式布局、文案公式、幻灯策略。 | Official | — |
-| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 从零或转换 PowerPoint 创建动画丰富的 HTML 演示。含 bold 模板包。 | Community | ⭐24393 |
+| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 从零或转换 PowerPoint 创建动画丰富的 HTML 演示。含 bold 模板包。 | Community | ⭐24480 |
 | [design](https://github.com/anthropics/skills) | 内置设计生产：logo（55 风格）、CIP 样机、SVG 图标（15 风格）、社媒照片。多平台产出。 | Official | — |
 | [design-assets-index](https://github.com/Ezra-Y/design-assets-index) | 现成设计素材索引——图库、图标、字体、配色、Mockup、UI Kit、模板。找素材去哪。 | Mine | — |
 | [design-tools-index](https://github.com/Ezra-Y/design-tools-index) | 按用途分类的设计工具索引（动画/配色/原型/handoff/design-to-code…）——30+ 类。 | Mine | — |
@@ -85,7 +85,7 @@
 
 | Skill | 说明 | 来源 | 星数 |
 |---|---|---|---|
-| [taste-skill](https://github.com/senlindesign/taste-skill) | 从 URL 逆向任意网站的设计品味。抓取 DOM+截图，产出 token 和品味 DNA（决策背后的 why）。 | Community | ⭐199 |
+| [taste-skill](https://github.com/senlindesign/taste-skill) | 从 URL 逆向任意网站的设计品味。抓取 DOM+截图，产出 token 和品味 DNA（决策背后的 why）。 | Community | ⭐203 |
 | [claude2figma](https://github.com/senlindesign/claude2figma) | Claude + Figma 强制层——组件规则、预检、样式绑定、参考解读。保持 Figma 产出一致。 | Community | ⭐173 |
 | [brand](https://github.com/anthropics/skills) | 品牌声音、视觉识别、信息框架、资产管理、品牌一致性。构建/维护品牌体系。 | Official | — |
 | [webdesign-agency-skills](https://github.com/peterhadorn/webdesign-agency-skills) | 审计任意网站产出客户级销售简报，或做定向设计评审。代理机构级工作流。 | Community | ⭐21 |
@@ -94,10 +94,10 @@
 
 | Skill | 说明 | 来源 | 星数 |
 |---|---|---|---|
-| [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | SwiftUI 前端视觉设计——6 条抗 AI-slop 规则、Apple 原生字体、5 维设计审查。有辨识度的 iOS/macOS 界面。 | Community | ⭐141 |
-| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | Paul Hudson 的 SwiftUI agent skill。帮 AI 写更聪明的现代 SwiftUI——API、设计、性能、可访问性、导航。 | Community | ⭐4249 |
+| [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | SwiftUI 前端视觉设计——6 条抗 AI-slop 规则、Apple 原生字体、5 维设计审查。有辨识度的 iOS/macOS 界面。 | Community | ⭐142 |
+| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | Paul Hudson 的 SwiftUI agent skill。帮 AI 写更聪明的现代 SwiftUI——API、设计、性能、可访问性、导航。 | Community | ⭐4251 |
 | [apple-skills](https://github.com/vabole/apple-skills) | Apple 开发 skill 合集——HIG、ios-design-consultant、ui-craft、swiftui/动画，加框架（StoreKit/HealthKit 等）。 | Community | ⭐273 |
-| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS 模拟器自动化——构建/测试脚本、可访问性导航、屏幕映射、手势、视觉 diff、app 生命周期。 | Community | ⭐1127 |
+| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS 模拟器自动化——构建/测试脚本、可访问性导航、屏幕映射、手势、视觉 diff、app 生命周期。 | Community | ⭐1129 |
 | [ios-motion-patterns-index](https://github.com/Ezra-Y/ios-motion-patterns-index) | 按分类的 iOS 动画可跑代码索引（菜单/转场/指示器/弹窗/动画/UI），来自 MotionBook。 | Mine | — |
 
 ---
